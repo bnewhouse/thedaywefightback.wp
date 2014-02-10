@@ -18,7 +18,7 @@ Plugin based on https://github.com/tfrce/thedaywefightback.js
 
 ## Installation
 
-Download [tdwfb.zip](https://github.com/modemlooper/thedaywefightback.wp/raw/master/tdwfb.zip) then upload it to your WordPress plugins folder, unpack it into its own folder there, such as `wp-content/plugins/tdwfb`, and activate in the admin dashboard. See below.
+Download [tdwfb.zip](https://github.com/modemlooper/thedaywefightback.wp/raw/master/tdwfb.zip) then upload it to your WordPress plugins folder, unpack it into its own folder there, such as `wp-content/plugins/tdwfb`, and activate in the admin dashboard. See below. You can also search in your WordPress dashbaord under Plugins for TDWFB and install from http://wordpress.org/plugins/tdwfb
 
 ### On the sidbar
 
